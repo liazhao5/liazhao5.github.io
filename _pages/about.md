@@ -21,11 +21,11 @@ Hello, my name is Liang ZHAO, and I am currently pursuing my PhD degree in Compu
 
 My research interests include multiobjective optimization, Bayesian optimization, and and their applications.
 
-Email: liazhao5-c@my.cityu.edu.hk
+**Email**: liazhao5-c@my.cityu.edu.hk
 
 
 
-# 📝 Selected Publications  
+# Selected Publications  
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEVC 2024</div><img src='images/2024/DirHVI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -35,22 +35,22 @@ Email: liazhao5-c@my.cityu.edu.hk
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# Honors and Awards
 -   *2023* Outstanding Academic Performance Award for Research Degree Students, CityU
 -   *2022* Outstanding Master's Degree Thesis, China Ordnance Society (COS)
 -   *2014,2015,2016,2019* National Scholarship, Ministry of Education of China
 
-# 📖 Educations
+# Educations
 - *2020.09 - now*, PhD Student, City University of Hong Kong 
 - *2017.09 - 2020.06*, Master, Northwestern Polytechnical University
 - *2013.09 - 2017.07*, Bachelor, Northwestern Polytechnical University 
 
-# 💻 Visiting Experiences
+# Visiting Experiences
 
 - *2023.09 - 2024.02*, Visiting Scholar, Prof. [Chao QIAN](https://www.lamda.nju.edu.cn/qianc/)'s Group, Nanjing University, China
 
 
-# 📝 Journal Reviewers 
+# Journal Reviewers 
 * IEEE Transactions on Evolutionary Computation
 * Memetic Computing
 * SCIENCE CHINA Information Sciences
