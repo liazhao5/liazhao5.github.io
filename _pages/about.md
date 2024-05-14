@@ -16,17 +16,21 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-Hello, my name is Liang ZHAO, and I am currently pursuing my PhD degree in Computer Science at the City University of Hong Kong, under the guidance of Prof. [Qingfu ZHANG](https://scholars.cityu.edu.hk/en/persons/qingfu-zhang(a25373cf-62a1-4697-ad08-43678bcbf3f2).html). Prior to this, I completed my Bachelor's and Master's degrees at the School of Marine Science and Technology, Northwestern Polytechnical University in Xi’an, China, in 2017 and 2020, respectively. My studies there were conducted under the supervision of Prof. [Baowei SONG](https://teacher.nwpu.edu.cn/songbaowei.html). 
+# Biography
+I am currently a PhD candidate in Computer Science at [City University of Hong Kong](https://www.cityu.edu.hk/), under the supervision of Prof. [Qingfu ZHANG](https://scholars.cityu.edu.hk/en/persons/qingfu-zhang(a25373cf-62a1-4697-ad08-43678bcbf3f2).html). I received my B.Sc. and M.Sc. degrees in the School of Marine Science and Technology at [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), in 2017 and 2020, respectively, under the supervision of Prof. [Baowei SONG](https://teacher.nwpu.edu.cn/songbaowei.html). Between September 2023 and February 2024, I had the opportunity to enhance my research experience as a visiting PhD student in Dr. [Chao QIAN](https://www.lamda.nju.edu.cn/qianc/)'s group at Nanjing University.
 
 My research interests include multiobjective optimization, Bayesian optimization, and and their applications.
 
 **Email**: liazhao5-c@my.cityu.edu.hk
 
 
+<span class='anchor' id='-news'></span> 
+# News
+- *2023.04*: &nbsp;🎉🎉  "Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization" has been accepted by IEEE Transactions on Evolutionary Computation.
+
+<span class='anchor' id='-selected-publications'></span> 
 
 # Selected Publications  
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEVC 2024</div><img src='images/2024/DirHVI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization** [[PDF](https://ieeexplore.ieee.org/document/10093980)] [[Supplementary](https://ieeexplore.ieee.org/document/10093980/media#media)] [[code](https://github.com/mobo-d/DirHV-EGO)]
@@ -35,21 +39,15 @@ My research interests include multiobjective optimization, Bayesian optimization
 </div>
 </div>
 
+<span class='anchor' id='-honors-and-awards'></span> 
 # Honors and Awards
 -   *2023* Outstanding Academic Performance Award for Research Degree Students, CityU
 -   *2022* Outstanding Master's Degree Thesis, China Ordnance Society (COS)
 -   *2014,2015,2016,2019* National Scholarship, Ministry of Education of China
 
-# Educations
-- *2020.09 - now*, PhD Student, City University of Hong Kong 
-- *2017.09 - 2020.06*, Master, Northwestern Polytechnical University
-- *2013.09 - 2017.07*, Bachelor, Northwestern Polytechnical University 
+ 
 
-# Visiting Experiences
-
-- *2023.09 - 2024.02*, Visiting Scholar, Prof. [Chao QIAN](https://www.lamda.nju.edu.cn/qianc/)'s Group, Nanjing University, China
-
-
+<span class='anchor' id='-academic-service'></span> 
 # Journal Reviewers 
 * IEEE Transactions on Evolutionary Computation
 * Memetic Computing
