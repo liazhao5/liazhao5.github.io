@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Liang ZHAO"
-description              : "Homepage. "
+description              : "PhD Student at City University of Hong Kong"
 repository               : "liazhao5/liazhao5.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Liang ZHAO"
+  name             : "Liang ZHAO (赵亮)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "PhD Student at City University of Hong Kong"
+  bio              : ""
   location         : "Hong Kong"
   employer         :
   pubmed           : 
