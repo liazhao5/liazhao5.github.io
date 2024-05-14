@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # Biography
-I am currently a PhD candidate in Computer Science at [City University of Hong Kong](https://www.cityu.edu.hk/), under the supervision of Prof. [Qingfu ZHANG](https://scholars.cityu.edu.hk/en/persons/qingfu-zhang(a25373cf-62a1-4697-ad08-43678bcbf3f2).html). I received my B.Sc. and M.Sc. degrees in the School of Marine Science and Technology at [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), in 2017 and 2020, respectively, under the supervision of Prof. [Baowei SONG](https://teacher.nwpu.edu.cn/songbaowei.html). Between September 2023 and February 2024, I had the opportunity to enhance my research experience as a visiting PhD student in Dr. [Chao QIAN](https://www.lamda.nju.edu.cn/qianc/)'s group at Nanjing University.
+I am currently a PhD candidate in Computer Science at [City University of Hong Kong](https://www.cityu.edu.hk/), under the supervision of Prof. [Qingfu ZHANG](https://scholars.cityu.edu.hk/en/persons/qingfu-zhang(a25373cf-62a1-4697-ad08-43678bcbf3f2).html). I received my B.Sc. and M.Sc. degrees in the School of Marine Science and Technology at [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), in 2017 and 2020, respectively, under the supervision of Prof. [Baowei SONG](https://teacher.nwpu.edu.cn/songbaowei.html). Between September 2023 and February 2024, I visited Dr. [Chao QIAN](https://www.lamda.nju.edu.cn/qianc/)'s group at Nanjing University.
 
 My research interests include multiobjective optimization, Bayesian optimization, and and their applications.
 
@@ -48,7 +48,8 @@ My research interests include multiobjective optimization, Bayesian optimization
  
 
 <span class='anchor' id='-academic-service'></span> 
-# Journal Reviewers 
+# Academic Service
+## Journal Reviewers 
 * IEEE Transactions on Evolutionary Computation
 * Memetic Computing
 * SCIENCE CHINA Information Sciences
