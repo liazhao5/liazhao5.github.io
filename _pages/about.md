@@ -23,22 +23,27 @@ His research interests include multiobjective optimization, Bayesian optimizatio
 
 
 
-
-# 🔥 News
--  
-
 # 📝 Publications  
 
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEVC 2024</div><img src='images/2024/DirHVI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization [[PDF](https://ieeexplore.ieee.org/document/10093980)] [[Supplementary](https://ieeexplore.ieee.org/ielx7/4235/4358751/10093980/supp1-3265347.pdf?arnumber=10093980)] [[code](https://github.com/mobo-d/DirHV-EGO)]
+
+**Liang Zhao** and Qingfu Zhang.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 -   
 
 # 📖 Educations
--  
+- *2020.09 - now*, PhD Student, City University of Hong Kong 
+- *2017.09 - 2020.06*, Master, Northwestern Polytechnical University
+- *2013.09 - 2017.07*, Undergraduate, Northwestern Polytechnical University
 
-# 💬 Invited Talks
--  
+# 💻 Visiting Experiences
 
-# 💻 Internships
--  
+- *2023.09 - 2024.02*, Visiting Scholar, School of Artificial Intelligence, Nanjing University, China
