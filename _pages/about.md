@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
+{% if site.google_scholar_stats_use_cdn %}l8
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, my name is Liang ZHAO, and I am currently pursuing my PhD degree in Computer Science at the City University of Hong Kong, under the guidance of Professor [Qingfu ZHANG](https://scholars.cityu.edu.hk/en/persons/qingfu-zhang(a25373cf-62a1-4697-ad08-43678bcbf3f2).html). Prior to this, I completed my Bachelor's and Master's degrees at the School of Marine Science and Technology, Northwestern Polytechnical University in Xi’an, China, in 2017 and 2020, respectively. My studies there were conducted under the supervision of Professor [Baowei SONG](https://teacher.nwpu.edu.cn/songbaowei.html). 
+Hello, my name is Liang ZHAO, and I am currently pursuing my PhD degree in Computer Science at the City University of Hong Kong, under the guidance of Prof. [Qingfu ZHANG](https://scholars.cityu.edu.hk/en/persons/qingfu-zhang(a25373cf-62a1-4697-ad08-43678bcbf3f2).html). Prior to this, I completed my Bachelor's and Master's degrees at the School of Marine Science and Technology, Northwestern Polytechnical University in Xi’an, China, in 2017 and 2020, respectively. My studies there were conducted under the supervision of Prof. [Baowei SONG](https://teacher.nwpu.edu.cn/songbaowei.html). 
 
-His research interests include multiobjective optimization, Bayesian optimization, and and their applications.
+My research interests include multiobjective optimization, Bayesian optimization, and and their applications.
 
 
 
@@ -35,12 +35,12 @@ His research interests include multiobjective optimization, Bayesian optimizatio
 
 # 🎖 Honors and Awards
 -   *2022* Outstanding Master's Degree Thesis, China Ordnance Society (COS)
--   *2014,2015,2016,2019* National Scholarship
+-   *2014,2015,2016,2019* National Scholarship, Ministry of Education of China
 
 # 📖 Educations
 - *2020.09 - now*, PhD Student, City University of Hong Kong 
 - *2017.09 - 2020.06*, Master, Northwestern Polytechnical University
-- *2013.09 - 2017.07*, Undergraduate, Northwestern Polytechnical University
+- *2013.09 - 2017.07*, Bachelor, Northwestern Polytechnical University 
 
 # 💻 Visiting Experiences
 
@@ -48,6 +48,6 @@ His research interests include multiobjective optimization, Bayesian optimizatio
 
 
 # 📝 Journal Reviewers 
-IEEE Transactions on Evolutionary Computation
-Memetic Computing
-SCIENCE CHINA Information Sciences
+* IEEE Transactions on Evolutionary Computation
+* Memetic Computing
+* SCIENCE CHINA Information Sciences
