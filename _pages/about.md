@@ -23,21 +23,19 @@ His research interests include multiobjective optimization, Bayesian optimizatio
 
 
 
-# 📝 Publications  
-
-</div>
+# 📝 Selected Publications  
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEVC 2024</div><img src='images/2024/DirHVI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization [[PDF](https://ieeexplore.ieee.org/document/10093980)] [[Supplementary](https://ieeexplore.ieee.org/ielx7/4235/4358751/10093980/supp1-3265347.pdf?arnumber=10093980)] [[code](https://github.com/mobo-d/DirHV-EGO)]
+**Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization** [[PDF](https://ieeexplore.ieee.org/document/10093980)] [[Supplementary](https://ieeexplore.ieee.org/document/10093980/media#media)] [[code](https://github.com/mobo-d/DirHV-EGO)]
 
 **Liang Zhao** and Qingfu Zhang.
 </div>
 </div>
 
 # 🎖 Honors and Awards
--   
+-   *2022* Outstanding Master's Degree Thesis, China Ordnance Society (COS)
+-   *2014,2015,2016,2019* National Scholarship
 
 # 📖 Educations
 - *2020.09 - now*, PhD Student, City University of Hong Kong 
@@ -46,4 +44,10 @@ Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimizat
 
 # 💻 Visiting Experiences
 
-- *2023.09 - 2024.02*, Visiting Scholar, School of Artificial Intelligence, Nanjing University, China
+- *2023.09 - 2024.02*, Visiting Scholar, Prof. [Chao QIAN](https://www.lamda.nju.edu.cn/qianc/)'s Group, Nanjing University, China
+
+
+# 📝 Journal Reviewers 
+IEEE Transactions on Evolutionary Computation
+Memetic Computing
+SCIENCE CHINA Information Sciences
