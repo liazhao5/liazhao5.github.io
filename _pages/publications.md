@@ -3,11 +3,14 @@ permalink: /publications/
 title: "Publications"
 excerpt: ""
 author_profile: true
+# redirect_from: 
+#   # - /publications/
+#   - /publications.html
 ---
 
  
 
-## Refereed Journal Articles
+# Refereed Journal Articles
 
 <b>Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization</b> <br>
 <b>Liang Zhao</b> and Qingfu Zhang. 
@@ -17,7 +20,7 @@ IEEE Transactions on Evolutionary Computation, 28(2): 432-444, 2024.
  
 
 
-## Conference Papers
+# Conference Papers
 
  
 

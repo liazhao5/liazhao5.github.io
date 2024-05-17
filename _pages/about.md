@@ -30,7 +30,7 @@ My research interests include multiobjective optimization, Bayesian optimization
 
  
 
-# Selected Publications ([Full List](/publications/))  
+# Selected Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEVC 2024</div><img src='images/2024/DirHVI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization** [[PDF](https://ieeexplore.ieee.org/document/10093980)] [[Supplementary](https://ieeexplore.ieee.org/document/10093980/media#media)] [[code](https://github.com/mobo-d/DirHV-EGO)]
@@ -38,7 +38,7 @@ My research interests include multiobjective optimization, Bayesian optimization
 </div>
 </div>
 
- 
+
 # Honors and Awards
 -   *2023* Outstanding Academic Performance Award for Research Degree Students, Awarded by CityU
 -   *2022* Outstanding Master's Degree Thesis, Awarded by China Ordnance Society (COS)
@@ -46,7 +46,7 @@ My research interests include multiobjective optimization, Bayesian optimization
 
  
 
- 
+
 # Academic Service
 ## Journal Reviewers 
 * IEEE Transactions on Evolutionary Computation
