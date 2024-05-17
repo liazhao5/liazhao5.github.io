@@ -23,27 +23,26 @@ My research interests include multiobjective optimization, Bayesian optimization
 
 **Email**: liazhao5-c@my.cityu.edu.hk
 
-
 <span class='anchor' id='-news'></span> 
+
 # News
-- *2023.04*: &nbsp;🎉🎉  "Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization" has been accepted by IEEE Transactions on Evolutionary Computation.
+- *2023.04*: &nbsp;🎉🎉  "Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization" has been accepted by IEEE Transactions on Evolutionary Computation (IF in 2023 = 14.3).
 
 <span class='anchor' id='-selected-publications'></span> 
 
-# Selected Publications  
+# Selected Publications ([Full List](liazhao5.github.io.publications))  
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEVC 2024</div><img src='images/2024/DirHVI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization** [[PDF](https://ieeexplore.ieee.org/document/10093980)] [[Supplementary](https://ieeexplore.ieee.org/document/10093980/media#media)] [[code](https://github.com/mobo-d/DirHV-EGO)]
-
 **Liang Zhao** and Qingfu Zhang.
 </div>
 </div>
 
 <span class='anchor' id='-honors-and-awards'></span> 
 # Honors and Awards
--   *2023* Outstanding Academic Performance Award for Research Degree Students, CityU
--   *2022* Outstanding Master's Degree Thesis, China Ordnance Society (COS)
--   *2014,2015,2016,2019* National Scholarship, Ministry of Education of China
+-   *2023* Outstanding Academic Performance Award for Research Degree Students, Awarded by CityU
+-   *2022* Outstanding Master's Degree Thesis, Awarded by China Ordnance Society (COS)
+-   *2014,2015,2016,2019* National Scholarship, Awarded by Ministry of Education of China
 
  
 

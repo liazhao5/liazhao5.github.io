@@ -15,5 +15,8 @@ main:
   - title: "Academic Service"
     url: "/#-academic-service"
     
+- title: "Publications"
+    url: /publications/
+    
 
 
