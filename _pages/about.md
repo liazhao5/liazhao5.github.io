@@ -26,7 +26,8 @@ My research interests include multiobjective optimization, Bayesian optimization
  
 
 # News
-- *2023.04*: &nbsp;🎉🎉  "Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization" has been accepted by IEEE Transactions on Evolutionary Computation (IF in 2023 = 14.3).
+- *2024.07*: &nbsp;🎉🎉  "Many-to-Few Decomposition: Linking R2-based and Decomposition-based Multiobjective Efficient Global Optimization Algorithms" has been accepted by IEEE Transactions on Evolutionary Computation.
+- *2023.04*: &nbsp;🎉🎉  "Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization" has been accepted by IEEE Transactions on Evolutionary Computation.
 
  
 
@@ -34,26 +35,38 @@ My research interests include multiobjective optimization, Bayesian optimization
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEVC 2024</div><img src='images/2024/DirHVI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization** [[PDF](https://ieeexplore.ieee.org/document/10093980)] [[Supplementary](https://ieeexplore.ieee.org/document/10093980/media#media)] [[code](https://github.com/mobo-d/DirHV-EGO)]
-
 **Liang Zhao** and Qingfu Zhang.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEVC 2024</div><img src='images/2024/R2D-EGO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Many-to-Few Decomposition: Linking R2-based and Decomposition-based Multiobjective Efficient Global Optimization Algorithms** [[PDF](https://ieeexplore.ieee.org/document/xxxx)] [[Supplementary](https://ieeexplore.ieee.org/document/xxxx/media#media)] [[code](https://github.com/mobo-d/R2D-EGO)]
+**Liang Zhao**, Xiaobin Huang, Chao Qian,  and Qingfu Zhang.
+</div>
+</div>
 
 # Honors and Awards
--   *2023* Outstanding Academic Performance Award for Research Degree Students, Awarded by CityU
--   *2022* Outstanding Master's Degree Thesis, Awarded by China Ordnance Society (COS)
--   *2014,2015,2016,2019* National Scholarship, Awarded by Ministry of Education of China
+- *2023* Outstanding Academic Performance Award for Research Degree Students, Awarded by CityU
+- *2022* Outstanding Master's Degree Thesis, Awarded by China Ordnance Society (COS)
+- *2014,2015,2016,2019* National Scholarship, Awarded by Ministry of Education of China
+
+# Educations
+- *2020.09 - 2025*, PhD,  City University of Hong Kong
+- *2017.09 - 2020.06*, Master, Northwestern Polytechnical University
+- *2013.09 - 2017.07*, Undergraduate, Northwestern Polytechnical University
 
 # Publication List
-## Journal Articles
+## Journal Papers
 
 <ol>
-    <li><b>Liang Zhao</b>  and Qingfu Zhang. "Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization". <b>IEEE Transactions on Evolutionary Computation</b>, 28(2): 432-444, 2024. <a href="https://ieeexplore.ieee.org/document/10093980">[PDF]</a> <a href="https://ieeexplore.ieee.org/document/10093980/media#media">[Supplementary]</a> <a href="https://github.com/mobo-d/DirHV-EGO">[Code]</a> </li>
+     <li><b>Liang Zhao</b>, Xiaobin Huang, Chao Qian, and Qingfu Zhang. "Many-to-Few Decomposition: Linking R2-based and Decomposition-based Multiobjective Efficient Global Optimization Algorithms". <b>IEEE Transactions on Evolutionary Computation</b>, 2024 (in press). <a href="https://ieeexplore.ieee.org/document/xxxx">[PDF]</a> <a href="https://ieeexplore.ieee.org/document/xxxx/media#media">[Supplementary]</a> <a href="https://github.com/mobo-d/R2D-EGO">[Code]</a> </li>
+    <li><b>Liang Zhao</b> and Qingfu Zhang. "Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization". <b>IEEE Transactions on Evolutionary Computation</b>, 28(2): 432-444, 2024. <a href="https://ieeexplore.ieee.org/document/10093980">[PDF]</a> <a href="https://ieeexplore.ieee.org/document/10093980/media#media">[Supplementary]</a> <a href="https://github.com/mobo-d/DirHV-EGO">[Code]</a> </li>
     <li>Chongbo Fu, Peng Wang, <b>Liang Zhao</b>, and Xinjing Wang. "A Distance Correlation-based Kriging Modeling Method for High-dimensional Problems". <b>Knowledge-Based Systems</b> 206 (2020): 106356. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705120305074">[PDF]</a></li>
     <li><b>Liang Zhao</b>, Peng Wang, Baowei Song, Xinjing Wang, and Huachao Dong. "An Efficient Kriging Modeling Method for High-dimensional Design Problems based on Maximal Information Coefficient". <b>Structural and Multidisciplinary Optimization</b> 61 (2020): 39-57. <a href="https://link.springer.com/article/10.1007/s00158-019-02342-3">[PDF]</a> Featured on "Advances in Engineering" (AIE) as a "Key Science Article" <a href="https://advanceseng.com/efficient-kriging-modeling-method-high-dimensional-design-problems-maximal-information-coefficient/">[AIE Website]</a></li>
     <li><b>Liang Zhao</b>, Peng Wang, Chunya Sun, and Baowei Song. "Modeling and Motion Simulation for a Flying-wing Underwater Glider with a Symmetrical Airfoil".  <b>China Ocean Engineering</b> 33 (2019): 322-332. <a href="https://link.springer.com/article/10.1007/s13344-019-0031-7">[PDF]</a></li>
 </ol>
+
 
 
 ## Conference Papers
