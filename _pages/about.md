@@ -29,37 +29,38 @@ My research interests include multiobjective optimization, Bayesian optimization
 - *2024.07*: &nbsp;🎉🎉  "Many-to-Few Decomposition: Linking R2-based and Decomposition-based Multiobjective Efficient Global Optimization Algorithms" has been accepted by IEEE Transactions on Evolutionary Computation.
 - *2023.04*: &nbsp;🎉🎉  "Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization" has been accepted by IEEE Transactions on Evolutionary Computation.
 
- 
-
 # Selected Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEVC 2024</div><img src='images/2024/DirHVI.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization** 
-
-[[PDF](https://ieeexplore.ieee.org/document/10093980)] [[Supplementary](https://ieeexplore.ieee.org/document/10093980/media#media)] [[code](https://github.com/mobo-d/DirHV-EGO)]
-
-**Liang Zhao** and Qingfu Zhang.
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">TEVC 2024</div><img src='images/2024/DirHVI.png' alt="sym" width="100%">             </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+        **Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization** <br>
+        [[PDF](https://ieeexplore.ieee.org/document/10093980)] [[Supplementary](https://ieeexplore.ieee.org/document/10093980/media#media)] [[code](https://github.com/mobo-d/DirHV-EGO)] <br>
+        **Liang Zhao** and Qingfu Zhang.
+    </div>
 </div>
-</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEVC 2024</div><img src='images/2024/R2D-EGO.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**Many-to-Few Decomposition: Linking R2-based and Decomposition-based Multiobjective Efficient Global Optimization Algorithms** 
-
-[[PDF](https://ieeexplore.ieee.org/document/xxxx)] [[Supplementary](https://ieeexplore.ieee.org/document/xxxx/media#media)] [[code](https://github.com/mobo-d/R2D-EGO)]
-
-
-**Liang Zhao**, Xiaobin Huang, Chao Qian,  and Qingfu Zhang.
-</div>
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">TEVC 2024</div><img src='images/2024/R2D-EGO.png' alt="sym" width="100%">             </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+        **Many-to-Few Decomposition: Linking R2-based and Decomposition-based Multiobjective Efficient Global Optimization Algorithms** <br>
+        [[PDF](https://ieeexplore.ieee.org/document/xxxx)] [[Supplementary](https://ieeexplore.ieee.org/document/xxxx/media#media)] [[code](https://github.com/mobo-d/R2D-EGO)] <br>
+		**Liang Zhao**, Xiaobin Huang, Chao Qian,  and Qingfu Zhang.
+	</div>
 </div>
 
 # Honors and Awards
-- *2023* Outstanding Academic Performance Award for Research Degree Students, Awarded by CityU
+- *2023* Outstanding Academic Performance Award for Research Degree Students, Awarded by CityUHK
 - *2022* Outstanding Master's Degree Thesis, Awarded by China Ordnance Society (COS)
 - *2014,2015,2016,2019* National Scholarship, Awarded by Ministry of Education of China
 
 # Educations
-- *2020.09 - 2025*, PhD,  City University of Hong Kong
+- *2020.09 - 2025*, PhD,  City University of Hong Kong (CityUHK)
 - *2017.09 - 2020.06*, Master, Northwestern Polytechnical University
 - *2013.09 - 2017.07*, Undergraduate, Northwestern Polytechnical University
 
