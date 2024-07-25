@@ -37,6 +37,7 @@ My research interests include multiobjective optimization, Bayesian optimization
     </div>
     <div class='paper-box-text' markdown="1">
 **Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization** 
+
 [[PDF](https://ieeexplore.ieee.org/document/10093980)] [[Supplementary](https://ieeexplore.ieee.org/document/10093980/media#media)] [[code](https://github.com/mobo-d/DirHV-EGO)] 
 
 **Liang Zhao** and Qingfu Zhang.
@@ -50,9 +51,8 @@ My research interests include multiobjective optimization, Bayesian optimization
     </div>
     <div class='paper-box-text' markdown="1">
 **Many-to-Few Decomposition: Linking R2-based and Decomposition-based Multiobjective Efficient Global Optimization Algorithms**
-
 [[PDF](https://ieeexplore.ieee.org/document/xxxx)] [[Supplementary](https://ieeexplore.ieee.org/document/xxxx/media#media)] [[code](https://github.com/mobo-d/R2D-EGO)]
-        
+
 **Liang Zhao**, Xiaobin Huang, Chao Qian,  and Qingfu Zhang.
 </div>
 </div>
