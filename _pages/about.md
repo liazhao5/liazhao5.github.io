@@ -67,8 +67,8 @@ My research interests include multiobjective optimization, Bayesian optimization
 
 # Educations
 - *2020.09 - 2025*, PhD,  City University of Hong Kong (CityUHK)
-- *2017.09 - 2020.06*, Master, Northwestern Polytechnical University
-- *2013.09 - 2017.07*, Undergraduate, Northwestern Polytechnical University
+- *2017.09 - 2020.06*, Master, Northwestern Polytechnical University (NPU)
+- *2013.09 - 2017.07*, Undergraduate, Northwestern Polytechnical University (NPU)
 
 # Publication List
 ## Journal Papers
@@ -95,5 +95,5 @@ My research interests include multiobjective optimization, Bayesian optimization
 # Academic Service
 ## Journal Reviewers 
 * IEEE Transactions on Evolutionary Computation
-* Memetic Computing
 * SCIENCE CHINA Information Sciences
+* Memetic Computing
