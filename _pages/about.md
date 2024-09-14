@@ -82,9 +82,10 @@ My research interests include multiobjective optimization, Bayesian optimization
 ## Conference Papers
 
  <ol>
-    <li><b>Liang Zhao</b>, and Qingfu Zhang. "Exact Formulas for the Computation of Expected Tchebycheff Improvement". In 2023 IEEE Congress on Evolutionary Computation (CEC), pp. 1-8. IEEE, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10253989">[PDF]</a></li>
+    <li><b>Liang Zhao</b>, and Qingfu Zhang. "Exact Formulas for the Computation of Expected Tchebycheff Improvement". In 2023 IEEE Congress on Evolutionary Computation (CEC), pp. 1-8. IEEE, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10253989">[PDF]</a><a href="https://github.com/mobo-d/MOEAD-EGO">[Code]</a></li>
      <li>Keyao Fu, Peng Wang, Bin Sun, <b>Liang Zhao</b>, and Chuang Liu. "Design, Development and Testing of a New Solar-powered Bionic Underwater Glider with Multi-locomotion Modes". In OCEANS 2019-Marseille, pp. 1-7. IEEE, 2019. <a href="https://ieeexplore.ieee.org/abstract/document/8867529">[PDF]</a></li>
 </ol>
+
  
 
 
