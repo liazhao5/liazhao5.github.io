@@ -59,16 +59,15 @@ My research interests include multiobjective optimization, Bayesian optimization
 </div>
 </div>
 
-
-# Honors and Awards
-- *2023* Outstanding Academic Performance Award for Research Degree Students, Awarded by CityUHK
-- *2022* Outstanding Master's Degree Thesis, Awarded by China Ordnance Society (COS)
-- *2014,2015,2016,2019* National Scholarship, Awarded by Ministry of Education of China
-
 # Educations
 - *2020.09 - 2025*, PhD,  City University of Hong Kong (CityUHK)
 - *2017.09 - 2020.06*, Master, Northwestern Polytechnical University (NPU)
 - *2013.09 - 2017.07*, Undergraduate, Northwestern Polytechnical University (NPU)
+
+# Honors and Awards
+- *2023* Outstanding Academic Performance Award for Research Degree Students, Awarded by CityUHK
+- *2022* Outstanding Master's Degree Thesis, Awarded by China Ordnance Society (COS)
+- *2014, 2015, 2016, 2019* National Scholarship, Awarded by Ministry of Education of China
 
 # Publication List
 ## Journal Papers
@@ -80,10 +79,6 @@ My research interests include multiobjective optimization, Bayesian optimization
     <li><b>Liang Zhao</b>, Peng Wang, Baowei Song, Xinjing Wang, and Huachao Dong. "An Efficient Kriging Modeling Method for High-dimensional Design Problems based on Maximal Information Coefficient". <b>Structural and Multidisciplinary Optimization</b> 61 (2020): 39-57. <a href="https://link.springer.com/article/10.1007/s00158-019-02342-3">[PDF]</a></li>
     <li><b>Liang Zhao</b>, Peng Wang, Chunya Sun, and Baowei Song. "Modeling and Motion Simulation for a Flying-wing Underwater Glider with a Symmetrical Airfoil".  <b>China Ocean Engineering</b> 33 (2019): 322-332. <a href="https://link.springer.com/article/10.1007/s13344-019-0031-7">[PDF]</a></li>
 </ol>
-
-
-
-
 ## Conference Papers
 
  <ol>
