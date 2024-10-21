@@ -82,7 +82,7 @@ My research interests include multiobjective optimization, Bayesian optimization
 ## Conference Papers
 
  <ol>
-     <li> Xiaoyuan Zhang<sup>#</sup>, <b>Liang Zhao<sup>#</sup></b>, Yingying Yu<sup>#</sup>, Xi Lin, Zhenkun Wang, Han Zhao, and Qingfu Zhang. "LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch". In <a>Advances in Neural Information Processing Systems 37 (NeurIPS'24)</a>, Vancouver, Canada, 2024. <a href="https://arxiv.org/abs/2409.02969">[Preprint PDF] (# Equal Contribution) </a>
+     <li> Xiaoyuan Zhang<sup>#</sup>, <b>Liang Zhao<sup>#</sup></b>, Yingying Yu<sup>#</sup>, Xi Lin, Zhenkun Wang, Han Zhao, and Qingfu Zhang. "LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch". In <a>Advances in Neural Information Processing Systems 37 (NeurIPS'24)</a>, Vancouver, Canada, 2024. <a href="https://arxiv.org/abs/2409.02969">[Preprint PDF]</a> (# Equal Contribution) 
      </li>
     <li><b>Liang Zhao</b>, and Qingfu Zhang. "Exact Formulas for the Computation of Expected Tchebycheff Improvement". In <a>Proceedings of the 2023 IEEE Congress on Evolutionary Computation (CEC'23)</a>, Chicago, IL, 2023, pp.1-8. <a href="https://ieeexplore.ieee.org/abstract/document/10253989">[PDF]</a><a href="https://github.com/mobo-d/MOEAD-EGO">[Code]</a></li>
      <li>Keyao Fu, Peng Wang, Bin Sun, <b>Liang Zhao</b>, and Chuang Liu. "Design, Development and Testing of a New Solar-powered Bionic Underwater Glider with Multi-locomotion Modes". In <a>OCEANS 2019</a>-Marseille, pp. 1-7. IEEE, 2019. <a href="https://ieeexplore.ieee.org/abstract/document/8867529">[PDF]</a></li>
