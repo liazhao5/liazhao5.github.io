@@ -36,11 +36,9 @@ My research interests include multiobjective optimization, Bayesian optimization
             <div class="badge">TEVC 2023</div><img src='images/2024/DirHVI.png' alt="sym" width="100%">             </div>
     </div>
     <div class='paper-box-text' markdown="1">
-
-IEEE Transactions on Evolutionary Computation
+*IEEE Transactions on Evolutionary Computation*
 
 **Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization** 
-
 
 [[Post-print PDF](https://scholars.cityu.edu.hk/files/242838612/144134803.pdf)] [[PDF](https://ieeexplore.ieee.org/document/10093980)] [[code](https://github.com/mobo-d/DirHV-EGO)] 
 
@@ -55,8 +53,7 @@ IEEE Transactions on Evolutionary Computation
             <div class="badge">TEVC 2024</div><img src='images/2024/R2D-EGO.png' alt="sym" width="100%">             </div>
     </div>
     <div class='paper-box-text' markdown="1">
-
-IEEE Transactions on Evolutionary Computation
+*IEEE Transactions on Evolutionary Computation*
 
 **Many-to-Few Decomposition: Linking R2-based and Decomposition-based Multiobjective Efficient Global Optimization Algorithms**
 
