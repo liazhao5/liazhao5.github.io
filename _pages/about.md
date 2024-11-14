@@ -95,10 +95,5 @@ My research interests include multiobjective optimization, Bayesian optimization
 </ol>
 
 
-
-
-# Academic Service
-## Journal Reviewers 
-* IEEE Transactions on Evolutionary Computation
-* SCIENCE CHINA Information Sciences
-* Memetic Computing
+# Journal Reviewers 
+IEEE Transactions on Evolutionary Computation, Swarm and Evolutionary Computation,  Transactions on Machine Learning Research, SCIENCE CHINA Information Sciences, Memetic Computing
