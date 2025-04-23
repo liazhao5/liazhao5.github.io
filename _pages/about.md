@@ -18,9 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-I am currently a Postdoctoral Fellow in the Department of Computer Science at [City University of Hong Kong (CityUHK)](https://www.cityu.edu.hk/), supervised by Prof. [Qingfu ZHANG](https://scholars.cityu.edu.hk/en/persons/qingfu-zhang(a25373cf-62a1-4697-ad08-43678bcbf3f2).html).
-
-I completed my Ph.D. degree at CityUHK, also under Prof. Qingfu ZHANG's supervision. Prior to this, I obtained both my master’s and bachelor’s degrees from the School of Marine Science and Technology at at [Northwestern Polytechnical University (NPU)](https://www.nwpu.edu.cn/), where I was supervised by Prof. [Baowei SONG](https://teacher.nwpu.edu.cn/songbaowei.html) and Prof. [Peng WANG](https://teacher.nwpu.edu.cn/wpnwpu.html). 
+I am currently a Postdoctoral Fellow in the Department of Computer Science at [City University of Hong Kong (CityUHK)](https://www.cityu.edu.hk/), supervised by Prof. [Qingfu ZHANG](https://scholars.cityu.edu.hk/en/persons/qingfu-zhang(a25373cf-62a1-4697-ad08-43678bcbf3f2).html). I completed my Ph.D. degree at CityUHK, also under Prof. Qingfu ZHANG's supervision. Prior to this, I obtained both my master’s and bachelor’s degrees from the School of Marine Science and Technology at at [Northwestern Polytechnical University (NPU)](https://www.nwpu.edu.cn/), where I was supervised by Prof. [Baowei SONG](https://teacher.nwpu.edu.cn/songbaowei.html) and Prof. [Peng WANG](https://teacher.nwpu.edu.cn/wpnwpu.html). 
 
 My research interests include multiobjective optimization, Bayesian optimization, and their applications.
 
