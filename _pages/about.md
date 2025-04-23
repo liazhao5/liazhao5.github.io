@@ -16,18 +16,17 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# About me
-I am currently a PhD candidate in Computer Science at [City University of Hong Kong (CityUHK)](https://www.cityu.edu.hk/), under the supervision of Prof. [Qingfu ZHANG](https://scholars.cityu.edu.hk/en/persons/qingfu-zhang(a25373cf-62a1-4697-ad08-43678bcbf3f2).html). I received my B.Sc. and M.Sc. degrees in the School of Marine Science and Technology at [Northwestern Polytechnical University (NPU)](https://www.nwpu.edu.cn/), in 2017 and 2020, respectively, where I was supervised by Prof. [Baowei SONG](https://teacher.nwpu.edu.cn/songbaowei.html) and Prof. [Peng WANG](https://teacher.nwpu.edu.cn/wpnwpu.html). Additionally, from September 2023 to February 2024, I visited Prof. [Chao QIAN](https://www.lamda.nju.edu.cn/qianc/)'s research group at Nanjing University.
 
-My research interests include multiobjective optimization, Bayesian optimization, and their applications in the design of underwater vehicles.
+# About me
+I am currently a Postdoctoral Fellow in the Department of Computer Science at [City University of Hong Kong (CityUHK)](https://www.cityu.edu.hk/), supervised by Prof. [Qingfu ZHANG](https://scholars.cityu.edu.hk/en/persons/qingfu-zhang(a25373cf-62a1-4697-ad08-43678bcbf3f2).html).
+
+I completed my Ph.D. degree at CityUHK, also under Prof. Qingfu ZHANG's supervision. Prior to this, I obtained both my master’s and bachelor’s degrees from the School of Marine Science and Technology at at [Northwestern Polytechnical University (NPU)](https://www.nwpu.edu.cn/), where I was supervised by Prof. [Baowei SONG](https://teacher.nwpu.edu.cn/songbaowei.html) and Prof. [Peng WANG](https://teacher.nwpu.edu.cn/wpnwpu.html). 
+
+My research interests include multiobjective optimization, Bayesian optimization, and their applications.
 
 **Email**: liazhao5-c@my.cityu.edu.hk
 
  
-
-# News
-- *2024.07*: &nbsp;🎉🎉  "Many-to-Few Decomposition: Linking R2-based and Decomposition-based Multiobjective Efficient Global Optimization Algorithms" has been accepted by IEEE Transactions on Evolutionary Computation.
-- *2023.04*: &nbsp;🎉🎉  "Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization" has been accepted by IEEE Transactions on Evolutionary Computation.
 
 # Selected Publications
 <div class='paper-box'>
@@ -65,7 +64,7 @@ My research interests include multiobjective optimization, Bayesian optimization
 </div>
 
 # Educations
-- *2020.09 - 2025*, PhD,  City University of Hong Kong (CityUHK)
+- *2020.09 - 2025.02*, PhD,  City University of Hong Kong (CityUHK)
 - *2017.09 - 2020.06*, Master, Northwestern Polytechnical University (NPU)
 - *2013.09 - 2017.07*, Undergraduate, Northwestern Polytechnical University (NPU)
 
@@ -97,4 +96,4 @@ My research interests include multiobjective optimization, Bayesian optimization
 
 
 # Journal Reviewers 
-IEEE Transactions on Evolutionary Computation,  Transactions on Machine Learning Research, Swarm and Evolutionary Computation, SCIENCE CHINA Information Sciences, Memetic Computing
+IEEE Transactions on Evolutionary Computation, SCIENCE CHINA Information Sciences, Evolutionary Computation, Swarm and Evolutionary Computation, Memetic Computing
