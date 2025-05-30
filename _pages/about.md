@@ -17,7 +17,7 @@ I am currently a Postdoctoral Fellow in the Department of Computer Science at [C
 
 My research interests include multiobjective optimization, Bayesian optimization, and their applications.
 
-**Email**: liazhao5-c@my.cityu.edu.hk
+**Email**: liang.zhao@cityu.edu.hk
 
  
 
