@@ -25,7 +25,7 @@ My research interests include multiobjective optimization, Bayesian optimization
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">TEVC 2023</div><img src='images/2024/DirHVI.png' alt="sym" width="100%">             </div>
+            <div class="badge">TEVC 2023</div><img src='images/TEVC/DirHVI.png' alt="sym" width="100%">             </div>
     </div>
     <div class='paper-box-text' markdown="1">
 *IEEE Transactions on Evolutionary Computation*
@@ -42,7 +42,7 @@ My research interests include multiobjective optimization, Bayesian optimization
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">TEVC 2024</div><img src='images/2024/R2D-EGO.png' alt="sym" width="100%">             </div>
+            <div class="badge">TEVC 2024</div><img src='images/TEVC/R2D-EGO.png' alt="sym" width="100%">             </div>
     </div>
     <div class='paper-box-text' markdown="1">
 *IEEE Transactions on Evolutionary Computation*
@@ -53,6 +53,23 @@ My research interests include multiobjective optimization, Bayesian optimization
 [[Accepted Version](https://scholars.cityu.edu.hk/files/243001355/230319390.pdf)] [[PDF](https://ieeexplore.ieee.org/document/10612805)] [[code](https://github.com/mobo-d/R2D-EGO)]
 
 **Liang Zhao**, Xiaobin Huang, Chao Qian,  and Qingfu Zhang.
+</div>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">TEVC 2025</div><img src='images/TEVC/CSMOO.png' alt="sym" width="100%">             </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+*IEEE Transactions on Evolutionary Computation*
+
+
+## **Component-Sharing Preference in Expensive Multiobjective Optimization**
+
+ 
+
+**Liang Zhao**, Peng Wang, Jiangtao Shen, Baowei Song, and Qingfu Zhang.
 </div>
 </div>
 
@@ -70,6 +87,7 @@ My research interests include multiobjective optimization, Bayesian optimization
 ## Journal Papers
 
 <ol>
+	<li><b>Liang Zhao</b>, Peng Wang, Jiangtao Shen, Baowei Song, and Qingfu Zhang. "Component-Sharing Preference in Expensive Multiobjective Optimization". <b>IEEE Transactions on Evolutionary Computation</b>, 2025 (in press). <a href="https://scholars.cityu.edu.hk/files/xx.pdf">[Accepted Version]</a> <a href="https://ieeexplore.ieee.org/document/xx">[PDF]</a> <a href="https://xx">[Code]</a> </li>
      <li><b>Liang Zhao</b>, Xiaobin Huang, Chao Qian, and Qingfu Zhang. "Many-to-Few Decomposition: Linking R2-based and Decomposition-based Multiobjective Efficient Global Optimization Algorithms". <b>IEEE Transactions on Evolutionary Computation</b>, 2024 (in press). <a href="https://scholars.cityu.edu.hk/files/243001355/230319390.pdf">[Accepted Version]</a> <a href="https://ieeexplore.ieee.org/document/10612805">[PDF]</a> <a href="https://github.com/mobo-d/R2D-EGO">[Code]</a> </li>
     <li><b>Liang Zhao</b> and Qingfu Zhang. "Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization". <b>IEEE Transactions on Evolutionary Computation</b>, 28(2): 432-444, 2024. <a href="https://scholars.cityu.edu.hk/files/242838612/144134803.pdf">[Accepted Version]</a> <a href="https://ieeexplore.ieee.org/document/10093980">[PDF]</a> <a href="https://github.com/mobo-d/DirHV-EGO">[Code]</a> </li>
     <li><b>Liang Zhao</b>, Peng Wang, Baowei Song, Xinjing Wang, and Huachao Dong. "An Efficient Kriging Modeling Method for High-dimensional Design Problems based on Maximal Information Coefficient". <b>Structural and Multidisciplinary Optimization</b> 61 (2020): 39-57. <a href="https://link.springer.com/article/10.1007/s00158-019-02342-3">[PDF]</a></li>
