@@ -78,17 +78,17 @@ My research interests include multiobjective optimization, Bayesian optimization
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">TEVC 2025</div><img src='images/Packages/Libmoon.png' alt="sym" width="100%">             </div>
+            <div class="badge">NeurIPS 2024</div><img src='images/Packages/Libmoon.png' alt="sym" width="100%">             </div>
     </div>
     <div class='paper-box-text' markdown="1">
-*Advances in Neural Information Processing Systems 37 (NeurIPS'24, Datasets and Benchmarks Track)*
+*Advances in Neural Information Processing Systems 37* 
 
 
 ## **LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch**
 
 [[Preprint PDF](https://arxiv.org/abs/2409.02969)] [[code](https://github.com/xzhang2523/libmoon)] 
 
- Xiaoyuan Zhang, **Liang Zhao**, Yingying Yu, Xi Lin, Zhenkun Wang, Han Zhao, and Qingfu Zhang
+ Xiaoyuan Zhang*, **Liang Zhao***, Yingying Yu*, Xi Lin, Zhenkun Wang, Han Zhao, and Qingfu Zhang
 </div>
 </div>
 
