@@ -81,7 +81,8 @@ My research interests include multiobjective optimization, Bayesian optimization
             <div class="badge">NeurIPS 2024</div><img src='images/Packages/Libmoon.png' alt="sym" width="100%">             </div>
     </div>
     <div class='paper-box-text' markdown="1">
-*Advances in Neural Information Processing Systems 37* 
+*Advances in Neural Information Processing Systems* 
+
 
 
 ## **LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch**
