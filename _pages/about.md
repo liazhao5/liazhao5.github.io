@@ -73,6 +73,25 @@ My research interests include multiobjective optimization, Bayesian optimization
 </div>
 </div>
 
+
+# Packages
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">TEVC 2025</div><img src='images/Packages/Libmoon.png' alt="sym" width="100%">             </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+*Advances in Neural Information Processing Systems 37 (NeurIPS'24, Datasets and Benchmarks Track)*
+
+
+## **LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch**
+
+[[Preprint PDF](https://arxiv.org/abs/2409.02969)] [[code](https://github.com/xzhang2523/libmoon)] 
+
+ Xiaoyuan Zhang, **Liang Zhao**, Yingying Yu, Xi Lin, Zhenkun Wang, Han Zhao, and Qingfu Zhang
+</div>
+</div>
+
 # Educations
 - *2020.09 - 2025.02*, PhD, City University of Hong Kong (CityUHK)
 - *2017.09 - 2020.06*, Master, Northwestern Polytechnical University (NPU)
@@ -83,27 +102,7 @@ My research interests include multiobjective optimization, Bayesian optimization
 - *2022* Outstanding Master's Degree Thesis, Awarded by China Ordnance Society (COS)
 - *2014, 2015, 2016, 2019* National Scholarship, Awarded by Ministry of Education of China
 
-# Publication List
-## Journal Papers
 
-<ol>
-	<li><b>Liang Zhao</b>, Peng Wang, Jiangtao Shen, Baowei Song, and Qingfu Zhang. "Component-Sharing Preference in Expensive Multiobjective Optimization". <b>IEEE Transactions on Evolutionary Computation</b>, 2025 (in press). <a href="https://scholars.cityu.edu.hk/ws/portalfiles/portal/294245757/293600783.pdf">[Accepted Version]</a> <a href="https://ieeexplore.ieee.org/document/11052745">[PDF]</a> <a href="https://codeocean.com/capsule/7308497/tree/v3">[Code]</a> </li>
-     <li><b>Liang Zhao</b>, Xiaobin Huang, Chao Qian, and Qingfu Zhang. "Many-to-Few Decomposition: Linking R2-based and Decomposition-based Multiobjective Efficient Global Optimization Algorithms". <b>IEEE Transactions on Evolutionary Computation</b>, 2024 (in press). <a href="https://scholars.cityu.edu.hk/files/243001355/230319390.pdf">[Accepted Version]</a> <a href="https://ieeexplore.ieee.org/document/10612805">[PDF]</a> <a href="https://github.com/mobo-d/R2D-EGO">[Code]</a> </li>
-    <li><b>Liang Zhao</b> and Qingfu Zhang. "Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization". <b>IEEE Transactions on Evolutionary Computation</b>, 28(2): 432-444, 2024. <a href="https://scholars.cityu.edu.hk/files/242838612/144134803.pdf">[Accepted Version]</a> <a href="https://ieeexplore.ieee.org/document/10093980">[PDF]</a> <a href="https://github.com/mobo-d/DirHV-EGO">[Code]</a> </li>
-    <li><b>Liang Zhao</b>, Peng Wang, Baowei Song, Xinjing Wang, and Huachao Dong. "An Efficient Kriging Modeling Method for High-dimensional Design Problems based on Maximal Information Coefficient". <b>Structural and Multidisciplinary Optimization</b> 61 (2020): 39-57. <a href="https://link.springer.com/article/10.1007/s00158-019-02342-3">[PDF]</a></li>
-    <li><b>Liang Zhao</b>, Peng Wang, Chunya Sun, and Baowei Song. "Modeling and Motion Simulation for a Flying-wing Underwater Glider with a Symmetrical Airfoil".  <b>China Ocean Engineering</b> 33 (2019): 322-332. <a href="https://link.springer.com/article/10.1007/s13344-019-0031-7">[PDF]</a></li>
-    <li>Chongbo Fu, Peng Wang, <b>Liang Zhao</b>, and Xinjing Wang. "A Distance Correlation-based Kriging Modeling Method for High-dimensional Problems". <b>Knowledge-Based Systems</b> 206 (2020): 106356. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705120305074">[PDF]</a></li>
-</ol>
-
-
-## Conference Papers
-
- <ol>
- 	<li> Xiaoyuan Zhang, <b>Liang Zhao</b>, Yingying Yu, Xi Lin, Zhenkun Wang, Han Zhao, and Qingfu Zhang. "LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch". In <b>Advances in Neural Information Processing Systems 37 (NeurIPS'24, Datasets and Benchmarks Track)</b>, Vancouver, Canada, 2024. <a href="https://arxiv.org/abs/2409.02969">[Preprint PDF]</a> <a href="https://github.com/xzhang2523/libmoon">[Code]</a> 
-     </li>
-    <li><b>Liang Zhao</b>, and Qingfu Zhang. "Exact Formulas for the Computation of Expected Tchebycheff Improvement". In <b>Proceedings of the 2023 IEEE Congress on Evolutionary Computation (CEC'23)</b>, Chicago, IL, 2023, pp.1-8. <a href="https://ieeexplore.ieee.org/abstract/document/10253989">[PDF]</a> <a href="https://github.com/mobo-d/MOEAD-EGO">[Code]</a></li>
-     <li>Keyao Fu, Peng Wang, Bin Sun, <b>Liang Zhao</b>, and Chuang Liu. "Design, Development and Testing of a New Solar-powered Bionic Underwater Glider with Multi-locomotion Modes". In <b>OCEANS 2019</b>-Marseille, pp. 1-7. IEEE, 2019. <a href="https://ieeexplore.ieee.org/abstract/document/8867529">[PDF]</a></li>
-</ol>
 
 
 # Journal Reviewers 
