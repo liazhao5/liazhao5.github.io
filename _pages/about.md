@@ -89,7 +89,7 @@ My research interests include multiobjective optimization, Bayesian optimization
 
 [[PDF](https://arxiv.org/pdf/2409.02969)] [[code](https://github.com/xzhang2523/libmoon)] 
 
- Xiaoyuan Zhang\*, **Liang Zhao**\*, Yingying Yu\*, Xi Lin, Zhenkun Wang, Han Zhao, and Qingfu Zhang
+ Xiaoyuan Zhang, **Liang Zhao**, Yingying Yu, Xi Lin, Zhenkun Wang, Han Zhao, and Qingfu Zhang
 </div>
 </div>
 
