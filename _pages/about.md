@@ -87,7 +87,7 @@ My research interests include multiobjective optimization, Bayesian optimization
 
 ## **LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch**
 
-[[PDF](https://arxiv.org/pdf/2409.02969)] [[code](https://github.com/xzhang2523/libmoon)] 
+[[arxiv](https://arxiv.org/pdf/2409.02969)] [[PDF](https://proceedings.neurips.cc/paper_files/paper/2024/file/03ce71224741e6596059b8680a62978b-Paper-Datasets_and_Benchmarks_Track.pdf)] [[code](https://github.com/xzhang2523/libmoon)] 
 
  Xiaoyuan Zhang, **Liang Zhao**, Yingying Yu, Xi Lin, Zhenkun Wang, Han Zhao, and Qingfu Zhang
 </div>
