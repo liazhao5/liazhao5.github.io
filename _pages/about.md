@@ -13,7 +13,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-I am currently a Postdoctoral Fellow in the Department of Computer Science at [City University of Hong Kong (CityUHK)](https://www.cityu.edu.hk/), supervised by Prof. [Qingfu ZHANG](https://scholars.cityu.edu.hk/en/persons/qingfu-zhang(a25373cf-62a1-4697-ad08-43678bcbf3f2).html). I completed my Ph.D. degree at CityUHK, also under Prof. Qingfu ZHANG's supervision. Prior to this, I obtained both my master’s and bachelor’s degrees from the School of Marine Science and Technology at at [Northwestern Polytechnical University (NPU)](https://www.nwpu.edu.cn/), where I was supervised by Prof. [Baowei SONG](https://teacher.nwpu.edu.cn/songbaowei.html) and Prof. [Peng WANG](https://teacher.nwpu.edu.cn/wpnwpu.html). 
+I am currently a Postdoctoral Fellow in the Department of Computer Science at [City University of Hong Kong (CityUHK)](https://www.cityu.edu.hk/), supervised by Prof. [Qingfu ZHANG](https://scholars.cityu.edu.hk/en/persons/qingfu-zhang(a25373cf-62a1-4697-ad08-43678bcbf3f2).html). I completed my Ph.D. degree at CityUHK, also under Prof. Qingfu ZHANG's supervision. Prior to this, I obtained both my master’s and bachelor’s degrees from the School of Marine Science and Technology at at [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), where I was supervised by Prof. [Baowei SONG](https://teacher.nwpu.edu.cn/songbaowei.html) and Prof. [Peng WANG](https://teacher.nwpu.edu.cn/wpnwpu.html). 
 
 My research interests include multiobjective optimization, Bayesian optimization, and their applications.
 
@@ -73,37 +73,17 @@ My research interests include multiobjective optimization, Bayesian optimization
 </div>
 </div>
 
-
-# Packages
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">NeurIPS 2024</div><img src='images/Packages/Libmoon.png' alt="sym" width="100%">             </div>
-    </div>
-    <div class='paper-box-text' markdown="1">
-*Advances in Neural Information Processing Systems* 
-
-
-
-## **LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch**
-
-[[arxiv](https://arxiv.org/pdf/2409.02969)] [[PDF](https://proceedings.neurips.cc/paper_files/paper/2024/file/03ce71224741e6596059b8680a62978b-Paper-Datasets_and_Benchmarks_Track.pdf)] [[code](https://github.com/xzhang2523/libmoon)] 
-
- Xiaoyuan Zhang, **Liang Zhao**, Yingying Yu, Xi Lin, Zhenkun Wang, Han Zhao, and Qingfu Zhang
-</div>
-</div>
+ 
 
 # Educations
-- *2020.09 - 2025.02*, PhD, City University of Hong Kong (CityUHK)
-- *2017.09 - 2020.06*, Master, Northwestern Polytechnical University (NPU)
-- *2013.09 - 2017.07*, Undergraduate, Northwestern Polytechnical University (NPU)
+- *2020.09 - 2025.02*, PhD, City University of Hong Kong 
+- *2017.09 - 2020.06*, Master, Northwestern Polytechnical University
+- *2013.09 - 2017.07*, Undergraduate, Northwestern Polytechnical University
 
 # Honors and Awards
 - *2023* Outstanding Academic Performance Award for Research Degree Students, Awarded by CityUHK
-- *2022* Outstanding Master's Degree Thesis, Awarded by China Ordnance Society (COS)
+- *2022* Outstanding Master's Degree Thesis, Awarded by China Ordnance Society
 - *2014, 2015, 2016, 2019* National Scholarship, Awarded by Ministry of Education of China
-
-
 
 
 # Journal Reviewers 
