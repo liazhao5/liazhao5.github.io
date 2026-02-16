@@ -23,7 +23,8 @@ My research interests include multiobjective optimization, Bayesian optimization
 
 # Selected Publications
 
-## New Paradigms in Multi-Objective Optimization 
+- ## New Paradigms in Multi-Objective Optimization 
+
 
 <div class='paper-box'>
     <div class='paper-box-image'>
@@ -42,7 +43,8 @@ My research interests include multiobjective optimization, Bayesian optimization
 </div>
 </div>
 
-## Expensive Multiobjective Optimization
+- ## Expensive Multiobjective Optimization
+
 
 
 
