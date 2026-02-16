@@ -19,6 +19,10 @@ My research interests include multiobjective optimization, Bayesian optimization
 
 **Email**: liang.zhao@cityu.edu.hk
 
+# Educations
+- *2020.09 - 2025.02*, PhD, City University of Hong Kong 
+- *2017.09 - 2020.06*, Master, Northwestern Polytechnical University
+- *2013.09 - 2017.07*, Undergraduate, Northwestern Polytechnical University
  
 
 # Selected Publications
@@ -80,13 +84,7 @@ My research interests include multiobjective optimization, Bayesian optimization
 </div>
 </div>
 
-
-
-# Educations
-- *2020.09 - 2025.02*, PhD, City University of Hong Kong 
-- *2017.09 - 2020.06*, Master, Northwestern Polytechnical University
-- *2013.09 - 2017.07*, Undergraduate, Northwestern Polytechnical University
-
+ 
 # Honors and Awards
 - *2023* Outstanding Academic Performance Award for Research Degree Students, Awarded by CityUHK
 - *2022* Outstanding Master's Degree Thesis, Awarded by China Ordnance Society
