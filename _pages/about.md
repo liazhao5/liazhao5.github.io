@@ -22,6 +22,9 @@ My research interests include multiobjective optimization, Bayesian optimization
  
 
 # Selected Publications
+
+## New Paradigms in Multi-Objective Optimization 
+
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
@@ -39,22 +42,9 @@ My research interests include multiobjective optimization, Bayesian optimization
 </div>
 </div>
 
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">TEVC 2024</div><img src='images/TEVC/R2D-EGO.png' alt="sym" width="100%">             </div>
-    </div>
-    <div class='paper-box-text' markdown="1">
-*IEEE Transactions on Evolutionary Computation*
+## Expensive Multiobjective Optimization
 
 
-## **Many-to-Few Decomposition: Linking R2-based and Decomposition-based Multiobjective Efficient Global Optimization Algorithms**
-
-[[Accepted Version](https://scholars.cityu.edu.hk/files/243001355/230319390.pdf)] [[PDF](https://ieeexplore.ieee.org/document/10612805)] [[code](https://github.com/mobo-d/R2D-EGO)]
-
-**Liang Zhao**, Xiaobin Huang, Chao Qian,  and Qingfu Zhang.
-</div>
-</div>
 
 <div class='paper-box'>
     <div class='paper-box-image'>
@@ -62,8 +52,7 @@ My research interests include multiobjective optimization, Bayesian optimization
             <div class="badge">TEVC 2023</div><img src='images/TEVC/DirHVI.png' alt="sym" width="100%">             </div>
     </div>
     <div class='paper-box-text' markdown="1">
-*IEEE Transactions on Evolutionary Computation*
-
+*IEEE Transactions on Evolutionary Computation* 
 
 ## **Hypervolume-Guided Decomposition for Parallel Expensive Multiobjective Optimization** 
 
@@ -73,7 +62,23 @@ My research interests include multiobjective optimization, Bayesian optimization
 </div>
 </div>
 
- 
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">TEVC 2024</div><img src='images/TEVC/R2D-EGO.png' alt="sym" width="100%">             </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+*IEEE Transactions on Evolutionary Computation*
+
+## **Many-to-Few Decomposition: Linking R2-based and Decomposition-based Multiobjective Efficient Global Optimization Algorithms**
+
+[[Accepted Version](https://scholars.cityu.edu.hk/files/243001355/230319390.pdf)] [[PDF](https://ieeexplore.ieee.org/document/10612805)] [[code](https://github.com/mobo-d/R2D-EGO)]
+
+**Liang Zhao**, Xiaobin Huang, Chao Qian,  and Qingfu Zhang.
+</div>
+</div>
+
+
 
 # Educations
 - *2020.09 - 2025.02*, PhD, City University of Hong Kong 
