@@ -23,7 +23,7 @@ My research interests include multiobjective optimization, Bayesian optimization
 - *2020.09 - 2025.02*, PhD, City University of Hong Kong 
 - *2017.09 - 2020.06*, Master, Northwestern Polytechnical University
 - *2013.09 - 2017.07*, Undergraduate, Northwestern Polytechnical University
- 
+
 
 # Selected Publications
 
@@ -44,6 +44,24 @@ My research interests include multiobjective optimization, Bayesian optimization
 [[Accepted Version](https://scholars.cityu.edu.hk/ws/portalfiles/portal/294245757/293600783.pdf)] [[PDF](https://ieeexplore.ieee.org/document/11052745)] [[code](https://codeocean.com/capsule/7308497/tree/v3)] 
 
 **Liang Zhao**, Peng Wang, Jiangtao Shen, Baowei Song, and Qingfu Zhang.
+</div>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">TEVC 2026</div><img src='images/TEVC/TopK-BLS.png' alt="sym" width="100%">             </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+*IEEE Transactions on Evolutionary Computation*
+
+
+
+## **Top‑K-Aware Set Optimization for Component-Sharing Multiobjective Optimization**
+
+[[code](https://github.com/liazhao5/TopK-BLS)] 
+
+**Liang Zhao**, Peng Wang, Jiangtao Shen, Luziwei Leng, Zhichao Lu, and Qingfu Zhang.
 </div>
 </div>
 
@@ -84,7 +102,7 @@ My research interests include multiobjective optimization, Bayesian optimization
 </div>
 </div>
 
- 
+
 # Honors and Awards
 - *2023* Outstanding Academic Performance Award for Research Degree Students, Awarded by CityUHK
 - *2022* Outstanding Master's Degree Thesis, Awarded by China Ordnance Society
