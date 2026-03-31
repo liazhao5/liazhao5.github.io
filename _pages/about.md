@@ -59,7 +59,7 @@ My research interests include multiobjective optimization, Bayesian optimization
 
 ## **Top‑K-Aware Set Optimization for Component-Sharing Multiobjective Optimization**
 
-[[code](https://github.com/liazhao5/TopK-BLS)] 
+[[PDF](https://ieeexplore.ieee.org/document/11457962)] [[code](https://github.com/liazhao5/TopK-BLS)] 
 
 **Liang Zhao**, Peng Wang, Jiangtao Shen, Luziwei Leng, Zhichao Lu, and Qingfu Zhang.
 </div>
